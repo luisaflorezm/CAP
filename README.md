@@ -5,7 +5,7 @@
 El proyecto "Sistema Automatizado para la Gestión de Datos Clínicos y Neuropsicológicos" tiene como objetivo desarrollar una solución eficiente para gestionar y analizar datos clínicos y resultados de pruebas neuropsicológicas en la Universidad Pontificia Bolivariana. El sistema está diseñado para facilitar el diagnóstico y seguimiento de pacientes con condiciones neuropsicológicas, optimizando el tiempo de los profesionales de la salud y reduciendo el trabajo manual.
 
 ## Integrantes del proyecto
-[Camilo Velásquez Hincapié](https://github.com/CAMsay234) : 
+[Camilo Velásquez Hincapié](https://github.com/CAMsay234)
 
 [Luis Alejandro Londoño Martinez](https://github.com/alejolondonm) 
 
