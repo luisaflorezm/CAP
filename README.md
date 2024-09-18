@@ -18,9 +18,13 @@ Desarrollar un sistema automatizado para la gestión y análisis de datos clíni
 
 ## Objetivos claves:
 •	Establecer una ruta crítica definiendo las herramientas y tecnologías para la implementación del proyecto, asegurando un funcionamiento óptimo y garantizando la sostenibilidad y evolución futura del sistema.
+
 •	Implementar un motor de base de datos adecuado para el funcionamiento local, diseñando un esquema de base de datos detallado, y asegurando la integración eficiente con el backend del sistema.
+
 •	Desarrollar una interfaz de usuario intuitiva y un backend robusto para la gestión segura y precisa de datos del paciente, garantizando la entrada, actualización y visualización efectiva de la información.
+
 •	Crear un módulo de visualización de datos que permita a los neuropsicólogos la interpretación y el análisis de la información contenida en las historias clínicas a través de gráficos y visualizaciones claras y efectivas.
+
 •	Implementar un sistema de autenticación estableciendo protocolos de seguridad para la protección de los datos clínicos y sensibles, asegurando el acceso controlado y la privacidad de la información.
 
 ## Metodlogía SCRUM
