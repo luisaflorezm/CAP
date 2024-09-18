@@ -5,7 +5,7 @@
 El proyecto "Sistema Automatizado para la Gestión de Datos Clínicos y Neuropsicológicos" tiene como objetivo desarrollar una solución eficiente para gestionar y analizar datos clínicos y resultados de pruebas neuropsicológicas en la Universidad Pontificia Bolivariana. El sistema está diseñado para facilitar el diagnóstico y seguimiento de pacientes con condiciones neuropsicológicas, optimizando el tiempo de los profesionales de la salud y reduciendo el trabajo manual.
 
 ## Integrantes del proyecto
-[Camilo Velásquez Hincapié](https://github.com/CAMsay234) 
+[Camilo Velásquez Hincapié](https://github.com/CAMsay234) : 
 
 [Luis Alejandro Londoño Martinez](https://github.com/alejolondonm) 
 
@@ -27,7 +27,7 @@ Desarrollar un sistema automatizado para la gestión y análisis de datos clíni
 
 •	Implementar un sistema de autenticación estableciendo protocolos de seguridad para la protección de los datos clínicos y sensibles, asegurando el acceso controlado y la privacidad de la información.
 
-## Metodlogía SCRUM
+## Metodología SCRUM
 1. **Épica 1: Configuración y Preparación Inicial**
    - Configuración del entorno de desarrollo.
    - Establecimiento del repositorio y control de versiones.
